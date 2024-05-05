@@ -5,7 +5,7 @@
 - 👀 Je m'intéresse au développement logiciel et à l'informatique en général.
 - 🌱 Actuellement, j'apprends de nouvelles technologies pour améliorer mes compétences.
 - 💞️ Je suis ouvert à la collaboration sur des projets intéressants. N'hésitez pas à me contacter si vous avez des idées à partager ! Mais j'suis aussi très pris par ma ZONE01😄 
-- 📫 Vous pouvez me contacter par e-mail à [votre@email.com](mailto:votre@email.com).
+- 📫 Vous pouvez me contacter par e-mail à [bahmamadoubobosewa@gmail.com](mailto:bahmamadoubobosewa@gmail.com).
 - 😄 Pronoms : [il/lui].
 - ⚡ Fun fact : Comment un développeur coupe-t-il la forêt ? \n En utilisant l'arbre binaire ! 🌳💻😄
 
