@@ -1,8 +1,3 @@
-<!-- Banner / Hero (replace the URL below with a GIF or banner image you like) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mamadbah2/mamadbah2/master/banner-placeholder.png" alt="banner" width="100%" />
-</p>
-
 # Mamadou Bobo BAH (mamadbah2)
 **Full-Stack Developer & DevOps enthusiast — Spring · Go · Next.js**  
 Remote-friendly • Building reliable systems, realtime apps and deployable products.
