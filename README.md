@@ -18,8 +18,8 @@ const mamadbah2 = {
     location: "Dakar, Senegal",
     education: "Zone01 Dakar - Software Engineering",
     currentFocus: ["Backend Development", "Real-Time Systems", "Algorithm Design"],
-    interests: ["Distributed Systems", "WebSockets", "Clean Architecture"],
-    funFact: "I love solving complex algorithmic challenges! 🧠"
+    interests: ["Distributed Systems", "Artificial Intelligence", "Clean Architecture"],
+    funFact: "I love computer science"
 };
 ```
 
@@ -70,94 +70,6 @@ const mamadbah2 = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-
----
-
-## 🏆 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 💬 [Real-Time Forum](https://github.com/mamadbah2/real-time-forum)
-**WebSocket-powered forum with instant messaging**
-- 🔹 Real-time chat using Gorilla WebSocket
-- 🔹 User authentication & session management
-- 🔹 Post/comment system with likes/dislikes
-- 🔹 SQLite database with clean architecture
-
-**Stack:** `Go` `JavaScript` `WebSocket` `SQLite` `Docker`
-
-</td>
-<td width="50%">
-
-### 🎵 [Groupie Tracker](https://github.com/mamadbah2/groupie-tracker)
-**Music artists API visualization platform**
-- 🔹 RESTful API consumption & manipulation
-- 🔹 Advanced filtering & search algorithms
-- 🔹 MapQuest geolocation integration
-- 🔹 Dynamic data visualization
-
-**Stack:** `Go` `API` `MapQuest` `Docker`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🐜 [Lem-in](https://github.com/mamadbah2/lem-in)
-**Ant colony pathfinding simulator**
-- 🔹 Graph traversal algorithms (DFS)
-- 🔹 Path optimization & load balancing
-- 🔹 Advanced algorithmic problem-solving
-- 🔹 Pure Go implementation
-
-**Stack:** `Go` `Algorithms` `Graph Theory`
-
-</td>
-<td width="50%">
-
-### 🎮 [Bomberman](https://github.com/mamadbah2/make-your-game)
-**Classic game remake with vanilla JS**
-- 🔹 Collision detection system
-- 🔹 Event-driven architecture
-- 🔹 Dynamic grid-based gameplay
-- 🔹 Real-time game mechanics
-
-**Stack:** `JavaScript` `HTML5` `CSS3`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🛒 [E-Commerce Platform](https://github.com/mamadbah2/mabex-store)
-**Full-stack e-commerce solution**
-- 🔹 Next.js & TypeScript architecture
-- 🔹 MongoDB integration
-- 🔹 JWT authentication
-- 🔹 Admin dashboard
-
-**Stack:** `Next.js` `TypeScript` `MongoDB` `JWT`
-
-</td>
-<td width="50%">
-
-### 🌐 [Social Network](https://github.com/mamadbah2/social-network)
-**Modern social platform**
-- 🔹 Next.js frontend with TypeScript
-- 🔹 Real-time interactions
-- 🔹 Group management system
-- 🔹 User authentication
-
-**Stack:** `Next.js` `TypeScript` `Go` `WebSocket`
-
-</td>
-</tr>
-</table>
-
 ---
 
 ## 📊 GitHub Statistics
@@ -179,35 +91,66 @@ const mamadbah2 = {
 <tr>
 <td valign="top" width="33%">
 
-### 🔧 Backend Development
-- RESTful API Design
-- WebSocket Implementation
-- Database Design & Optimization
-- Server-Side Architecture
-- Session Management
-- Authentication & Security
+### ⚙️ Backend Development
+- RESTful API Design & Microservices
+- WebSocket-based Real-Time Systems
+- Authentication (JWT, OAuth2, bcrypt)
+- Database Modeling & Query Optimization
+- Clean Architecture & Layered Design
+- Performance Tuning & Caching Strategies
+- File Handling & Media Management
 
 </td>
 <td valign="top" width="33%">
 
-### 🧮 Algorithms & Data Structures
-- Graph Algorithms (DFS, BFS)
+### 💡 Frontend & Mobile Engineering
+- SPA Development (React, Angular, Next.js)
+- TypeScript & Component Architecture
+- Responsive Design with TailwindCSS
+- State Management (Context API, Hooks)
+- Progressive Web Apps (PWA)
+- Flutter Mobile App Development
+- API Integration & Data Visualization
+
+</td>
+<td valign="top" width="33%">
+
+### 🧩 DevOps, CI/CD & Systems
+- Containerization with Docker
+- CI/CD Pipelines (GitHub Actions, Jenkins)
+- Infrastructure Automation (Ansible)
+- Version Control & Git Workflow
+- Linux Server Administration
+- Networking & Cisco Fundamentals
+
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="33%">
+
+### 🧠 Algorithms & Data Structures
+- Graph Traversal (DFS, BFS)
 - Pathfinding & Optimization
+- Sorting & Searching Algorithms
 - Dynamic Programming
-- Search & Sorting Algorithms
-- Complexity Analysis
-- Problem Solving
+</td>
+<td valign="top" width="33%">
+
+### 🗃️ Databases & Data Layer
+- Relational (PostgreSQL, MySQL, SQLite)
+- NoSQL (MongoDB)
+- GraphQL Query Design
+- Indexing & Query Optimization
+- ORM & Migration Handling
 
 </td>
 <td valign="top" width="33%">
 
-### 🌐 Full-Stack Skills
-- Single Page Applications
-- Real-Time Systems
-- Responsive Design
-- State Management
-- API Integration
-- Docker Containerization
+### 🔐 Software Craftsmanship
+- Clean Code & SOLID Principles
+- Design Patterns & Best Practices
+- Documentation & Technical Writing
 
 </td>
 </tr>
@@ -220,8 +163,8 @@ const mamadbah2 = {
 ```go
 // Currently working on...
 type CurrentProjects struct {
-    Learning    []string{"Microservices", "gRPC", "Redis"}
-    Building    []string{"Discord Bot", "Booking System", "Harvest Management"}
+    Learning    []string{"Microservices", "AWS", "Artificial Intelligence"}
+    Building    []string{"Ecommerce platform", "Booking System"}
     Exploring   []string{"Cloud Architecture", "CI/CD", "Kubernetes"}
 }
 ```
@@ -237,7 +180,7 @@ type CurrentProjects struct {
   <a href="https://linkedin.com/in/mamadou-bobo-bah">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:mamadbah@zone01dakar.sn">
+  <a href="mailto:bahmamadoubobosewa@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
